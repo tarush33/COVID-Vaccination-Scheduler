@@ -1,0 +1,2 @@
+Run the crud-app in a port and run the react-covid-tracker-master in another port.
+then link them. when we click on the news section in the navbar, we will land on the react-covid-tracker-master
